@@ -1,0 +1,16 @@
+C:\Users\jnrm\source\repos\DependencyInversion\DependencyInversionChecked\bin\Debug\net5.0\DependencyInversionChecked.exe
+C:\Users\jnrm\source\repos\DependencyInversion\DependencyInversionChecked\bin\Debug\net5.0\DependencyInversionChecked.deps.json
+C:\Users\jnrm\source\repos\DependencyInversion\DependencyInversionChecked\bin\Debug\net5.0\DependencyInversionChecked.runtimeconfig.json
+C:\Users\jnrm\source\repos\DependencyInversion\DependencyInversionChecked\bin\Debug\net5.0\DependencyInversionChecked.runtimeconfig.dev.json
+C:\Users\jnrm\source\repos\DependencyInversion\DependencyInversionChecked\bin\Debug\net5.0\DependencyInversionChecked.dll
+C:\Users\jnrm\source\repos\DependencyInversion\DependencyInversionChecked\bin\Debug\net5.0\ref\DependencyInversionChecked.dll
+C:\Users\jnrm\source\repos\DependencyInversion\DependencyInversionChecked\bin\Debug\net5.0\DependencyInversionChecked.pdb
+C:\Users\jnrm\source\repos\DependencyInversion\DependencyInversionChecked\obj\Debug\net5.0\DependencyInversionChecked.csproj.AssemblyReference.cache
+C:\Users\jnrm\source\repos\DependencyInversion\DependencyInversionChecked\obj\Debug\net5.0\DependencyInversionChecked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnrm\source\repos\DependencyInversion\DependencyInversionChecked\obj\Debug\net5.0\DependencyInversionChecked.AssemblyInfoInputs.cache
+C:\Users\jnrm\source\repos\DependencyInversion\DependencyInversionChecked\obj\Debug\net5.0\DependencyInversionChecked.AssemblyInfo.cs
+C:\Users\jnrm\source\repos\DependencyInversion\DependencyInversionChecked\obj\Debug\net5.0\DependencyInversionChecked.csproj.CoreCompileInputs.cache
+C:\Users\jnrm\source\repos\DependencyInversion\DependencyInversionChecked\obj\Debug\net5.0\DependencyInversionChecked.dll
+C:\Users\jnrm\source\repos\DependencyInversion\DependencyInversionChecked\obj\Debug\net5.0\ref\DependencyInversionChecked.dll
+C:\Users\jnrm\source\repos\DependencyInversion\DependencyInversionChecked\obj\Debug\net5.0\DependencyInversionChecked.pdb
+C:\Users\jnrm\source\repos\DependencyInversion\DependencyInversionChecked\obj\Debug\net5.0\DependencyInversionChecked.genruntimeconfig.cache
